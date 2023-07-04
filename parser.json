@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "Title": "Senior Data Scientist / ML Engineer",
+            "Work_experience": "3–6 лет",
+            "Salary": "з/п не указана",
+            "Region": "Москва, Аэропорт"
+        },
+        {
+            "Title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+            "Work_experience": "3–6 лет",
+            "Salary": "от 600 000 руб. на руки",
+            "Region": "Москва"
+        },
+        {
+            "Title": "Программист Python",
+            "Work_experience": "3–6 лет",
+            "Salary": "от 80 000 до 220 000 руб. до вычета налогов",
+            "Region": "Москва"
+        },
+        {
+            "Title": "Junior Программист/Разработчик Python",
+            "Work_experience": "1–3 года",
+            "Salary": "от 60 000 руб. на руки",
+            "Region": "Новосибирск"
+        },
+        {
+            "Title": "Python-разработчик (Django, DRF)",
+            "Work_experience": "3–6 лет",
+            "Salary": "от 60 000 до 150 000 руб. на руки",
+            "Region": "Москва, Сухаревская"
+        },
+        {
+            "Title": "Программист Python, удаленно",
+            "Work_experience": "1–3 года",
+            "Salary": "от 170 000 руб. на руки",
+            "Region": "Москва, Арбатская и еще 2 "
+        },
+        {
+            "Title": "Программист Python/Data Scientist (junior / middle)",
+            "Work_experience": "не требуется",
+            "Salary": "от 60 000 до 100 000 руб. на руки",
+            "Region": "Новосибирск"
+        },
+        {
+            "Title": "Python программист (Django)",
+            "Work_experience": "1–3 года",
+            "Salary": "от 50 000 до 80 000 руб. на руки",
+            "Region": "Санкт-Петербург, Владимирская и еще 2 "
+        },
+        {
+            "Title": "Python-разработчик (backend)",
+            "Work_experience": "1–3 года",
+            "Salary": "з/п не указана",
+            "Region": "Москва"
+        },
+        {
+            "Title": "Python-разработчик",
+            "Work_experience": "3–6 лет",
+            "Salary": "от 120 000 до 190 000 руб. на руки",
+            "Region": "Краснодар"
+        },
+        {
+            "Title": "Junior/Middle Python Developer (Backend) - разработчик Питон",
+            "Work_experience": "1–3 года",
+            "Salary": "от 60 000 до 100 000 руб. на руки",
+            "Region": "Новосибирск"
+        }
+    ]
+}
