@@ -41,4 +41,4 @@ for page in range(2):
 
 
         with open("parser.json","w",encoding='utf8') as file:
-            json.dump(data,file, ensure_ascii=False, indent=4)
+            json.dump(data, file, ensure_ascii=False, indent=4)
